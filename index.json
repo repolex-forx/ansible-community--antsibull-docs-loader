@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "antsibull-docs-loader",
+  "versions": [
+    {
+      "commit": "f6f58f89cb22a293b69c905d44f963bbba20a558",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:27:52.823697+00:00"
+    }
+  ]
+}
